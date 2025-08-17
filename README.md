@@ -86,3 +86,17 @@ Message deletion (unsend)
 Push notifications
 
 Typing indicators
+
+## 📸 Screenshots
+
+### 🔑 Sign In
+![Sign In](assets/app_screens/sign_in.png)
+
+### 📝 Sign Up
+![Sign Up](assets/app_screens/sign_up.png)
+
+### 💬 Chats Page
+![Chats](assets/app_screens/chats.png)
+
+### 👥 Users Page
+![Users](assets/app_screens/users.png)
