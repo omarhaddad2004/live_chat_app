@@ -27,7 +27,7 @@ class _UsersPageState extends State<UsersPage> {
             child: Text(
               'Omars Chat',
               style: TextStyle(
-                fontSize: 20, // صغرناه من 26
+                fontSize: 20, 
                 fontWeight: FontWeight.bold,
                 color: Colors.white,
                 letterSpacing: 1,
@@ -43,7 +43,7 @@ class _UsersPageState extends State<UsersPage> {
                   'assets/logo/app_logo.png',
                   height: 32,
                 ),
-                const SizedBox(width: 8), // قللنا المسافة
+                const SizedBox(width: 8), 
                 Expanded(
                   child: Searchbar(
                     onSearch: (value) {
